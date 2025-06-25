@@ -41,4 +41,5 @@ git clone https://github.com/your-username/hospital-management.git
 cd Myprojects/healthcare/home.html
 ![Image_Alt](https://github.com/Neha-Dotcom49/hospiweb/blob/b9a2dbbfdf7a50e5e7160b7bdf190c3f7e56d0e1/Capture.PNG)
 ![Image_Alt](https://github.com/Neha-Dotcom49/hospiweb/blob/95e4d49a840e306ebe54a70b34cae06083676b90/Capture2.PNG)
+![Image_Alt](https://github.com/Neha-Dotcom49/hospiweb/blob/f50c1c98f2cf1db95539c67c4698c3a698a4b809/Capture3.PNG)
 
